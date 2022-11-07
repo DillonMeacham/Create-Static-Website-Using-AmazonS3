@@ -4,7 +4,7 @@
 In this project we will be utilizing AWS S3 to create and configure a simple cost efficient static website used to host files such as HTML, CSS, JavaScript, fonts, and images. The site will also include a custom error page.
 <br />
 
-<img src="https://imgur.com/VaIpvWO.png" height="60%" width="60%" />
+<img src="https://imgur.com/VaIpvWO.png" height="85%" width="85%" />
 
 
 <h2>Environments Used </h2>
